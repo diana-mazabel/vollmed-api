@@ -1,11 +1,8 @@
-package med.voll.api.model;
+package med.voll.api.domain.model;
 
 import jakarta.persistence.Embeddable;
-import jakarta.persistence.Entity;
-import jakarta.persistence.Table;
-import jakarta.persistence.criteria.CriteriaBuilder;
 import lombok.*;
-import med.voll.api.dto.DatosDireccion;
+import med.voll.api.domain.dto.DatosDireccion;
 
 @Embeddable
 @Getter
