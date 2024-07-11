@@ -1,8 +1,7 @@
-package med.voll.api.domain.model;
+package med.voll.api.domain.direccion;
 
 import jakarta.persistence.Embeddable;
 import lombok.*;
-import med.voll.api.domain.dto.DatosDireccion;
 
 @Embeddable
 @Getter

@@ -1,4 +1,4 @@
-package med.voll.api.domain.dto;
+package med.voll.api.domain.direccion;
 
 import jakarta.validation.constraints.NotBlank;
 

@@ -1,9 +1,8 @@
-package med.voll.api.domain.model;
+package med.voll.api.domain.medico;
 
 import jakarta.persistence.*;
 import lombok.*;
-import med.voll.api.domain.dto.DatosActualizarMedico;
-import med.voll.api.domain.dto.DatosMedico;
+import med.voll.api.domain.direccion.Direccion;
 import med.voll.api.domain.enums.Especialidad;
 
 @Entity
